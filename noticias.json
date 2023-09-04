@@ -1,0 +1,49 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Aula de PP - Linguagem",
+            "conteudo": "Texto"
+        },
+        {
+            "id": 2,
+            "titulo": "Aula de PP - Tecnico",
+            "conteudo": "Texto"
+        },
+        {
+            "id": 3,
+            "titulo": "\u00e7jasdg\u00e7jad\u00e7kjf",
+            "conteudo": "kasj\u00e7jkdf\u00e7kjzhskdjfkasjd\u00e7fs"
+        },
+        {
+            "id": 4,
+            "titulo": "xcvbxcvv",
+            "conteudo": "zxcvzxcvzxcv"
+        },
+        {
+            "id": 5,
+            "titulo": "hhalsdkfaj\u00e7df",
+            "conteudo": "asdasdfasdfadmvna, dajksdjfk"
+        },
+        {
+            "id": 6,
+            "titulo": "aeteqrrt",
+            "conteudo": "qwerqwetqer"
+        },
+        {
+            "id": 7,
+            "titulo": "asdgsdfsdaf",
+            "conteudo": "akjlsdfklalkjdfklajkdklsdf"
+        },
+        {
+            "id": 8,
+            "titulo": "akjklfj\u00e7ajkl\u00e7f",
+            "conteudo": "asdasfasdfasdf"
+        },
+        {
+            "id": 9,
+            "titulo": "kajsdkfj\u00e7aldsf",
+            "conteudo": "asdfasdfasdf"
+        }
+    ]
+}
